@@ -47,6 +47,11 @@ header {
 	border-radius: 15px;
 }
 
+.mensagem {
+	background: #e5e5a8;
+	text-transform: lowercase;
+	border-radius: 15px;
+}
 
 
 
